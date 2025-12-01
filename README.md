@@ -36,6 +36,7 @@ Demonstration of clean architecture and multithreading.
 ![CoreData / CloudKit](https://img.shields.io/badge/-CoreData%20%2F%20CloudKit-0366d6?style=flat&logo=apple&logoColor=white&labelColor=555555)
 ![Firebase](https://img.shields.io/badge/-Firebase-0366d6?style=flat&logo=firebase&logoColor=white&labelColor=555555)
 ![REST API](https://img.shields.io/badge/-REST%20API-0366d6?style=flat&logo=swift&logoColor=white&labelColor=555555)
+![SPM](https://img.shields.io/badge/-SPM%20-0366d6?style=flat&logo=swift&logoColor=white&labelColor=555555)
 ![Unit Testing](https://img.shields.io/badge/-Unit%20Testing-0366d6?style=flat&logo=xcode&logoColor=white&labelColor=555555)
 ![Git / GitFlow](https://img.shields.io/badge/-Git%20%2F%20GitFlow-0366d6?style=flat&logo=git&logoColor=white&labelColor=555555)
 
