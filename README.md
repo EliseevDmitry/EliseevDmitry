@@ -50,7 +50,7 @@ iOS Developer focused on creating high-performance and maintainable applications
 - Combine **strong technical execution** with experience in **team leadership and project organization**.  
 - Completed several production-ready iOS apps — including [ARModelViewer](https://github.com/EliseevDmitry/ARModelViewer) and [ToDoList](https://github.com/EliseevDmitry/ToDoList) — showcasing expertise in architecture, async programming, and testing.  
 - Passionate about **AR experiences**, app performance, and user interaction design.  
-- Currently improving **English (B1 → B2)** and open to **remote positions** in international teams.
+- Currently improving my **English (A2 → B1)** and open to remote positions in international teams.
 
 ---
 
